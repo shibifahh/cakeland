@@ -9643,7 +9643,7 @@ h6,
   list-style-type: none;
 }
 
-.reservation,
+/* .reservation,
 .page-header,
 .offer,
 .footer {
@@ -9651,4 +9651,4 @@ h6,
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
